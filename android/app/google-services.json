@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "799411540821",
+    "firebase_url": "https://fashionstory-e603a.firebaseio.com",
+    "project_id": "fashionstory-e603a",
+    "storage_bucket": "fashionstory-e603a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799411540821:android:438bba33c2e7954e99d5dc",
+        "android_client_info": {
+          "package_name": "com.nguyenbatu.fashion_story"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799411540821-q7qp62dj09tdgaukgst3fsb4n777bevd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-hXI3e0DBuV9CHP3dGPFOJtvzp-FtyH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799411540821-q7qp62dj09tdgaukgst3fsb4n777bevd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "799411540821-isb6fcqb9cnu80jkcr34q5d4i6fffqj8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nguyenbatu.fashionStory"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
